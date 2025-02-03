@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "title": "VPN Apps - Activate VPN before Downloading and Streaming",
+      "apps": [
+        {
+          "name": "Nord VPN",
+          "description": "Most recommended VPN",
+          "downloadUrl": "https://downloads.nordcdn.com/apps/android/generic/nordvpn-sideload/latest/NordVPN.apk"
+        },
+        {
+          "name": "Express VPN",
+          "description": "High-speed VPN",
+          "downloadUrl": "https://www.expressvpn.works/clients/android/expressvpn_latest.apk"
+        },
+        {
+          "name": "ProtonVPN",
+          "description": "Privacy-focused Swiss VPN",
+          "downloadUrl": "https://protonvpn.com/download/ProtonVPN.apk"
+        }
+      ]
+    },
+    {
+      "title": "Streaming Apps",
+      "apps": [
+        {
+          "name": "Cinema HD",
+          "description": "Movies and TV shows",
+          "downloadUrl": "https://cinemaapk.com/download/cinema-hd-v2.apk"
+        },
+        {
+          "name": "CyberFlix TV",
+          "description": "Latest Movies & Shows",
+          "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
+        },
+        {
+          "name": "BeeTV",
+          "description": "HD Streaming",
+          "downloadUrl": "https://beetvapk.me/download/beetv.apk"
+        }
+      ]
+    },
+    {
+      "title": "Media Players",
+      "apps": [
+        {
+          "name": "VLC Player",
+          "description": "Best media player",
+          "downloadUrl": "https://get.videolan.org/vlc-android/last/VLC-Android.apk"
+        },
+        {
+          "name": "MX Player Pro",
+          "description": "Advanced video player",
+          "downloadUrl": "https://sites.google.com/site/mxvpen/download/MXPlayer.apk"
+        },
+        {
+          "name": "Kodi",
+          "description": "Media center",
+          "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk"
+        }
+      ]
+    }
+  ]
+}
