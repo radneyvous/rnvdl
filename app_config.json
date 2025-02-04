@@ -5,7 +5,7 @@
       "apps": [
         {
           "name": "Nord VPN",
-          "description": "Most recommended VPN",
+          "description": "Most recommended VPN extra discription to see if it will wrap the text so it won't overlap",
           "downloadUrl": "https://downloads.nordcdn.com/apps/android/generic/nordvpn-sideload/latest/NordVPN.apk"
         },
         {
