@@ -6,7 +6,8 @@
                 {
                     "name": "Kodi",
                     "description": "Media center",
-                    "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk"
+                    "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk",
+                    "imageUrl": "https://i.imgur.com/u0ltUPf.jpg"
                 },
                 {
                     "name": "Plex",
@@ -15,14 +16,16 @@
                     "imageUrl": "https://i.imgur.com/26GjPE6.jpg"
                 },
                 {
-                    "name": "MX Player Pro",
+                    "name": "MX Player",
                     "description": "Advanced video player",
-                    "downloadUrl": "https://sites.google.com/site/mxvpen/download/MXPlayer.apk"
+                    "downloadUrl": "https://sites.google.com/site/mxvpen/download/MXPlayer.apk",
+                    "imageUrl": "https://i.imgur.com/2veR9VM.jpg"
                 },
                 {
                     "name": "VLC",
                     "description": "Best Media Player",
-                    "downloadUrl": "https://get.videolan.org/vlc-android/last/VLC-Android.apk"
+                    "downloadUrl": "https://get.videolan.org/vlc-android/last/VLC-Android.apk",
+                    "imageUrl": "https://i.imgur.com/qHnIt1y.jpg"
                 }
             ]
         },
