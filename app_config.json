@@ -11,7 +11,8 @@
                 {
                     "name": "Plex",
                     "description": "One of the best streaming media today",
-                    "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk"
+                    "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk",
+                    "imageUrl": "https://i.imgur.com/26GjPE6.jpg"
                 },
                 {
                     "name": "MX Player Pro",
