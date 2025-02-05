@@ -1,22 +1,22 @@
 {
     "categories": [
         {
-            "title": "VPN X Apps - Activate VPN before Downloading and Streaming",
+            "title": "Media Players",
             "apps": [
                 {
-                    "name": "Nord VPN",
-                    "description": "Most recommended VPN extra discription to see if it will wrap the text so it won't overlap and adjust the text box height if needed",
-                    "downloadUrl": "https://downloads.nordcdn.com/apps/android/generic/nordvpn-sideload/latest/NordVPN.apk"
+                    "name": "Kodi",
+                    "description": "Media center",
+                    "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk"
                 },
                 {
-                    "name": "Express VPN",
-                    "description": "High-speed VPN",
-                    "downloadUrl": "https://www.expressvpn.works/clients/android/expressvpn_latest.apk"
+                    "name": "MX Player Pro",
+                    "description": "Advanced video player",
+                    "downloadUrl": "https://sites.google.com/site/mxvpen/download/MXPlayer.apk"
                 },
                 {
-                    "name": "ProtonVPN",
-                    "description": "Privacy-focused Swiss VPN",
-                    "downloadUrl": "https://protonvpn.com/download/ProtonVPN.apk"
+                    "name": "VLC",
+                    "description": "Best Media Player",
+                    "downloadUrl": "https://get.videolan.org/vlc-android/last/VLC-Android.apk"
                 }
             ]
         },
@@ -41,7 +41,27 @@
             ]
         },
         {
-            "title": "Media Players",
+            "title": "Utilities",
+            "apps": [
+                {
+                    "name": "ES File Explorer",
+                    "description": "Easily manage, s",
+                    "downloadUrl": "https://cinemaapk.com/download/cinema-hd-v2.apk"
+                },
+                {
+                    "name": "CyberFlix TV",
+                    "description": "Latest Movies & Shows",
+                    "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
+                },
+                {
+                    "name": "BeeTV",
+                    "description": "HD Streaming",
+                    "downloadUrl": "https://beetvapk.me/download/beetv.apk"
+                }
+            ]
+        },
+        {
+            "title": "VPN",
             "apps": [
                 {
                     "name": "VLC Player",
@@ -64,6 +84,7 @@
     "bannerImages": [
         "https://i.imgur.com/qpyftzO.jpg",
         "https://i.imgur.com/TPtr9us.jpg",
+        "https://i.imgur.com/qpyftzO.jpg",
         "https://i.imgur.com/4Q5O4B3.jpg",
         "https://i.imgur.com/TPtr9us.jpg"
     ]
