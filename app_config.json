@@ -50,16 +50,31 @@
             "apps": [
                 {
                     "name": "ES File Explorer",
-                    "description": "Easily manage, s",
+                    "description": "Easily manages, shares all your local android and cloud files",
                     "downloadUrl": "https://cinemaapk.com/download/cinema-hd-v2.apk"
                 },
                 {
-                    "name": "CyberFlix TV",
-                    "description": "Latest Movies & Shows",
+                    "name": "Mouse Toggle for TV",
+                    "description": "Mouse Toggle for Android TV is a utility application that allows users to control their Android TV interface using a mouse-like pointer.",
                     "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
                 },
                 {
-                    "name": "BeeTV",
+                    "name": "Send Files to TV",
+                    "description": "It allows you to fastly and easily share movies, tv show or ANY files between these devices through your local network. No Internet required.",
+                    "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
+                },
+                {
+                    "name": "Analiti",
+                    "description": "WiFi Analyzer, Speed Tester & Connectivity Validator. Trusted by wireless networking & IT pros. “The best tool is the one you always have with you!”",
+                    "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
+                },
+                {
+                    "name": "Clean Shark",
+                    "description": "Ultimate App Cleaner",
+                    "downloadUrl": "https://cyberflix.me/download/cyberflix-tv.apk"
+                },
+                {
+                    "name": "AirPlay",
                     "description": "HD Streaming",
                     "downloadUrl": "https://beetvapk.me/download/beetv.apk"
                 }
@@ -69,17 +84,17 @@
             "title": "VPN",
             "apps": [
                 {
-                    "name": "NordVPN",
-                    "description": "The most advance and secure VPN",
+                    "name": "VLC Player",
+                    "description": "Best media player",
                     "downloadUrl": "https://get.videolan.org/vlc-android/last/VLC-Android.apk"
                 },
                 {
-                    "name": "IPVanish",
+                    "name": "MX Player Pro",
                     "description": "Advanced video player",
                     "downloadUrl": "https://sites.google.com/site/mxvpen/download/MXPlayer.apk"
                 },
                 {
-                    "name": "Express VPN",
+                    "name": "Kodi",
                     "description": "Media center",
                     "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk"
                 }
