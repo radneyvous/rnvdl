@@ -116,5 +116,8 @@
         "https://i.imgur.com/qpyftzO.jpg",
         "https://i.imgur.com/4Q5O4B3.jpg",
         "https://i.imgur.com/TPtr9us.jpg"
-    ]
+    ],
+    "reportBanner": {
+        "imageUrl": "https://i.imgur.com/qpyftzO.jpg"
+    }
 }
