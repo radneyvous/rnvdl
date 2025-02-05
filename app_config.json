@@ -9,6 +9,11 @@
                     "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk"
                 },
                 {
+                    "name": "Plex",
+                    "description": "One of the best streaming media today",
+                    "downloadUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-latest.apk"
+                },
+                {
                     "name": "MX Player Pro",
                     "description": "Advanced video player",
                     "downloadUrl": "https://sites.google.com/site/mxvpen/download/MXPlayer.apk"
