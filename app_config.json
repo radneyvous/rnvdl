@@ -122,5 +122,19 @@
     },
     "donateBanner": {
         "imageUrl": "https://i.imgur.com/qpyftzO.jpg"
-    }
+    },
+    "mobileBannerSlides": [
+        {
+            "imageUrl": "https://i.imgur.com/EyEcpN4.jpg",
+            "link": "https://t.me/radneyvous"
+        },
+        {
+            "imageUrl": "https://i.imgur.com/M1VjE9c.jpg",
+            "link": "https://t.me/radneyvous"
+        },
+        {
+            "imageUrl": "https://i.imgur.com/2UBk4JX.jpg",
+            "link": "https://t.me/radneyvous"
+        }
+    ]
 }
