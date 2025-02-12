@@ -118,7 +118,8 @@
         "https://i.imgur.com/TPtr9us.jpg"
     ],
     "reportBanner": {
-        "imageUrl": "https://i.imgur.com/qpyftzO.jpg"
+        "imageUrl": "https://i.imgur.com/qpyftzO.jpg",
+        "contactEmail": "radneyvous@gmail.com"
     },
     "donateBanner": {
         "imageUrl": "https://i.imgur.com/qpyftzO.jpg"
