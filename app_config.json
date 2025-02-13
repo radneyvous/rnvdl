@@ -112,8 +112,9 @@
     ],
     "bannerImages": [
         "https://i.imgur.com/qwfFSBg.jpg",
-        "https://i.imgur.com/pKrc11i.jpg",
-        "https://i.imgur.com/gFCw7oy.jpg"
+        "https://i.imgur.com/ADTgdRK.jpg",
+        "https://i.imgur.com/gFCw7oy.jpg",
+        "https://i.imgur.com/X0Hfdsl.jpg"
     ],
     "reportBanner": {
         "imageUrl": "https://i.imgur.com/qpyftzO.jpg",
@@ -134,6 +135,10 @@
         },
         {
             "imageUrl": "https://i.imgur.com/r58cRQZ.jpg",
+            "link": "https://affiliate.ipvanish.com/SH7Y"
+        },
+        {
+            "imageUrl": "https://i.imgur.com/NOniz3o.jpg",
             "link": "https://affiliate.ipvanish.com/SH7Y"
         }
     ]
